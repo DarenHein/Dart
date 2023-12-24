@@ -1,0 +1,20 @@
+¡Entendido! Aquí tienes cuatro reglas que se aplicarán a los 100 ejercicios:
+
+1. **Uso de Funciones:**
+   - Cada ejercicio debe resolverse utilizando funciones en Dart.
+   - Se deben definir funciones separadas para abordar cada problema.
+   - Cada función debe tener un nombre descriptivo que refleje su propósito.
+
+2. **Comentarios y Explicaciones:**
+   - Cada función debe estar acompañada de comentarios que expliquen su propósito y su funcionamiento.
+   - Se deben incluir comentarios para describir las entradas y salidas de las funciones.
+
+3. **Evitar Código Duplicado:**
+   - Debes evitar la repetición de código en la medida de lo posible.
+   - Si hay piezas de código que se repiten, considera crear funciones reutilizables.
+
+4. **Validación de Datos:**
+   - Se deben implementar controles de validación para los datos de entrada (por ejemplo, verificar que los números estén dentro de un rango permitido, que las cadenas tengan un formato válido, etc.).
+   - Los casos especiales y los límites deben ser considerados al diseñar las funciones.
+
+Estas reglas te guiarán para resolver los 100 ejercicios algorítmicos en Dart, asegurando que utilices funciones, brindes explicaciones claras, evites duplicar código y valides los datos de entrada en cada ejercicio. ¡Buena suerte con los desafíos!
