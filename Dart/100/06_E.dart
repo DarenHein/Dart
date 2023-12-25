@@ -4,17 +4,20 @@ void main (){
   String cadena = ("hola"); 
   minus(cadena); // manda la cadena al primra funcion 
 }
-void minus(String cadena){ // 
+void minus(String cadena){ // esta funcion quita las mayuscualas 
   String nCadena = cadena.toLowerCase(); 
-  vocales(nCadena); 
+  vocales(nCadena); // y manda el resultado a otra funcion 
 }
-void vocales(String cadena){
-  int contador = 0 ; 
+void vocales(String cadena){ // esta funcion crea una lista y en ella almacena 
+// la caedna que recibe y la tranforma a una lista 
+  int contador = 0 ; // el contador 
   List<String> lista = []; 
   for (int i =  0 ; i < cadena.length ; i ++ ){
     lista.add(cadena[i]); 
   }
+  // recorrera la lista 
   for (int i = 0 ; i < lista.length ; i ++ ){
+    // en un switch si detecta una a e i o u aumentara el contador 
     switch(lista[i]){
       case 'a' : 
         contador+=1; 
