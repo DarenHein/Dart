@@ -81,7 +81,7 @@
 
  dígitos primos de un número.
 80. Calcular el producto punto de dos listas de números.
-81. Verificar si dos cadenas tienen los mismos caracteres.
+81. Verificar si dos cadenas tienen los mismos caracteres. terminado 
 82. Encontrar el mayor común divisor (MCD) de una lista de números.
 83. Calcular la cantidad de formas de hacer cambios para una cantidad dada.
 84. Encontrar el enésimo término en la secuencia de Padovan.
