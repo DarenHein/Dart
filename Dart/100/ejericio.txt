@@ -97,7 +97,7 @@
 94. Verificar si una cadena contiene solo dígitos sin usar bucles.
 95. Encontrar la suma de los dígitos impares de un número.
 96. Determinar si un número es un número perfecto sin usar bucles.
-97. Encontrar la cantidad de números de n dígitos que son divisibles por 3.
+97. Encontrar la cantidad de números de n dígitos que son divisibles por 3. TERMINADO 
 98. Calcular el área de un triángulo dados sus lados sin usar bucles.
 99. Encontrar el término medio de una lista ordenada.
 100. Verificar si una cadena contiene solo caracteres alfabéticos sin usar bucles.
