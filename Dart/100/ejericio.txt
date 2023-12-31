@@ -90,7 +90,7 @@
 87. Encontrar los elementos comunes entre tres listas.
 88. Verificar si un número es un número feliz sin usar bucles.
 89. Comprobar si una cadena es un número de Harshad sin usar bucles.
-90. Encontrar la palabra más corta y más larga en una lista de palabras.
+90. Encontrar la palabra más corta y más larga en una lista de palabras. TERMINADO 
 91. Determinar si una matriz es simétrica sin usar bucles.
 92. Calcular la cantidad de divisores de un número.
 93. Encontrar el enésimo término en la secuencia de Hofstadter-Q.
