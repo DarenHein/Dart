@@ -1,0 +1,89 @@
+EXAMEN DE ALGUNOS METODOS EN DART 
+
+### Examen sobre Métodos en Dart:
+
+1. **Explica la función de `add()` en una lista en Dart.**
+    ** agrega un elemento al final de la lista 
+    lista.remove(); 
+2. **¿Cuál es el propósito de `addAll()` en Dart y cómo se utiliza?**
+    ** addAll(); agrega una lista a otroa lista al final 
+        EJEMPLO 
+            lista.addAll(lista2); 
+3. **Describe la diferencia entre `remove()` y `removeAt()` en Dart.**
+    ** remove elimina por el nombre del elemento y removeat por el indice 
+        EJEMPLO 
+            lista.remove("Luis"); // pensando que nuestra lsita contiene Strings 
+            lista.removeAt(0); // eliminara el elemento en el indice 0 
+4. **Explica el propósito y la forma de uso de `clear()` en Dart.**
+    ** limpia todo el conjunto de datos 
+        EJEMPLO
+            lista.clear();  
+5. **¿Qué hace el método `indexOf()` en Dart y cómo se usa?**
+    ** devuelve el indice de elemento 
+        EJEMPLO 
+            print(lista.indexOf("Luis")); // un ejemplo nos devoveria 2 si es que esta ahi 
+6. **Explica la función de `sort()` en Dart y proporciona un ejemplo de su uso.**
+    ** acomoda de forma acendete la lista 
+        EJEMPLO     
+            lista.sort(); 
+7. **¿Cuál es el propósito de `sublist()` en Dart y cómo se utiliza?**
+8. **Describe la función y el uso de `contains()` en Dart con respecto a las listas.**
+    ** devuvle un bool si es que el elemento senceuntra o no en la lista 
+        EJEMPLO 
+        bool verificar = lista.contains("Luis"); 
+        print(verificar); // devolvera un true o false dependiendo 
+9. **Explica la utilidad de `forEach()` en Dart con ejemplos.**
+    ** es una de las multiples formas de recorrer una lista 
+        EJEMPLO 
+        lista.forEach((elemento){
+            print(elemento)
+        }); 
+10. **¿Qué hace `removeWhere()` en Dart y cómo se aplica en una lista?**
+    remevue elementos de la lista dependiendo de la condicion 
+        EJEMPLO     
+              lista.removeWhere((element) => (element == 2 ));
+              // eliminara los elemento que sean iguales a 2 
+11. **Describe la operación y la sintaxis de `insert()` en Dart.**
+    inserta un elemento en uns posicion especifica 
+        EJEMPLO 
+            lista.insert(2,10); // ingresa el elemento 10 en el indice 2 
+
+12. **Explica el propósito y la forma de uso de `join()` en Dart.**
+    nos permite concatenar todos loe elementos de una lista con un seprador que 
+    especifiquemos 
+        EJEMPLO     
+                lista = ["Luis","como","mnzana"]; 
+                String frase = lista.join(" "); // nuestro sepradaor es un espacio 
+                print(frase) ; // imprime Luis come Manzanas ; 
+
+13. **¿Cuál es el propósito de `lastIndexOf()` en Dart y en qué casos se utiliza?**
+    devuelve el índice de la última vez que aparece en la lista. En la lista proporcionada, 
+        EJEMPLO
+        lista = [1,2,2,2,2]; 
+        int ultima = lista.lastIndexOf(2); 
+        print(ultima); // como buscamos el 2 nos devolveria el indice 6 que es la ultima 
+        // vez que lo vimos 
+
+14. **Describe la función y el uso de `replaceRange()` en Dart.**
+
+    ** remplaza elementos de la lista en un rango especidifo con otros elementos 
+        EJEMPLO
+        LISTA = [1,2,3,4,5]; 
+        lista.replaceRange(1,3,[6,7,8]): 
+        // el primer argumento es donde inicia 
+        // el segundo argumento es donde acaba 
+        // el tercer argumento es lo que remplara 
+        print(lista); //  imprimra [1,6,7,8,5];
+
+15. **Explica la operación y el uso de `shuffle()` en Dart con ejemplos.**
+
+    se ocupa para reacomodar aleatoriamente los elementos de una lista 
+        EJEMPLO 
+        lista = [1,2,3,4]; 
+        lista.shuffle(); 
+        print(lista); // los organizara de forma aleatoria 
+
+Este examen te permite explorar y comprender los diferentes métodos disponibles en Dart 
+para manipular y trabajar con listas. Cada pregunta se centra en un método específico y 
+su uso dentro del contexto de las operaciones de listas en Dart. ¡Espero que te sea útil
+ para profundizar tus conocimientos sobre estos métodos en Dart!
