@@ -17,5 +17,4 @@ void main(){
   // iddcionario inmutable 
   final diccionario_inmutable = {"hola" : "mundo"}; 
 
-  diccionario_inmutable["perro"] = 2 ; 
 }
