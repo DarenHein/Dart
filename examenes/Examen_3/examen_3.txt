@@ -1,0 +1,59 @@
+¿Qué es la programación orientada a objetos?
+Tu respuesta: b) Un paradigma de programación basado en objetos.
+
+En Dart, ¿cómo se crea una instancia de una clase llamada MiClase?
+Tu respuesta: a) MiClase obj = new MiClase();
+
+¿Qué es una clase en Dart?
+Tu respuesta: d) Un modelo para crear objetos.
+
+¿Cuál es el propósito del constructor en una clase Dart?
+Tu respuesta: a) Iniciar variables de instancia.
+
+En Dart, ¿cómo se declara una variable de instancia en una clase?
+Tu respuesta: a) variable instancia;
+
+¿Cuál es el operador de acceso a miembros en Dart?
+Tu respuesta: a) _
+
+¿Cómo se heredan las propiedades y métodos en Dart?
+Tu respuesta: a) class Hija extends Padre {}
+
+¿Qué es el polimorfismo en programación orientada a objetos?
+Tu respuesta: c) La capacidad de una clase para tener múltiples constructores.
+
+En Dart, ¿qué es una interfaz?
+Tu respuesta: c) Una clase abstracta.
+
+¿Cuál es el propósito de la palabra clave super en Dart?
+Tu respuesta: b) Acceder a miembros de la clase padre.
+
+En Dart, ¿cómo se realiza la sobrecarga de métodos?
+Tu respuesta: En Dart, no existe la sobrecarga de métodos.
+
+¿Qué es un mixin en Dart?
+Tu respuesta: b) Una forma de compartir código entre clases de manera no jerárquica.
+
+¿Qué es la abstracción en programación orientada a objetos?
+Tu respuesta: a) Ocultar los detalles internos de una clase.
+
+En Dart, ¿cómo se implementa la encapsulación?
+Tu respuesta: Ni una de las anteriores es correcta. En Dart, la encapsulación se logra utilizando el prefijo _ para hacer que un miembro de la clase sea privado.
+
+¿Qué es el constructor por defecto en Dart?
+Tu respuesta: c) Un constructor que se llama automáticamente al crear una instancia de una clase.
+
+¿Cómo se manejan las excepciones en Dart?
+Tu respuesta: b) Con la estructura try, catch, y finally.
+
+¿Qué es la recursividad en programación?
+Tu respuesta: a) La capacidad de una función para llamar a sí misma.
+
+¿Cuál es el propósito de la palabra clave this en Dart?
+Tu respuesta: d) Iniciar variables de instancia.
+
+En Dart, ¿cómo se declara una clase abstracta?
+Tu respuesta: a) abstract class MiClase {}
+
+¿Qué es el garbage collection en Dart?
+Tu respuesta: No proporcionaste una respuesta, pero el garbage collection se refiere a la gestión automática de la memoria en Dart, donde el sistema se encarga de liberar la memoria de objetos que ya no son accesibles.

@@ -1,0 +1,86 @@
+
+### Módulo 1: Introducción a Dart y Programación Orientada a Objetos
+
+1.1 **Introducción a Dart**
+   - Historia y propósito de Dart.
+   - Instalación del entorno de desarrollo.
+
+1.2 **Sintaxis Básica en Dart**
+   - Variables y tipos de datos.
+   - Estructuras de control (if, else, switch).
+   - Loops (for, while).
+
+1.3 **Funciones en Dart**
+   - Declaración y llamada de funciones.
+   - Parámetros y valores de retorno.
+
+1.4 **Programación Orientada a Objetos (POO)**
+   - Conceptos fundamentales de POO.
+   - Clases y objetos en Dart.
+   - Métodos y propiedades.
+
+### Módulo 2: Clases y Objetos en Profundidad
+
+2.1 **Constructores**
+   - Constructores por defecto y personalizados.
+   - Inicialización de variables.
+
+2.2 **Herencia y Polimorfismo**
+   - Extensión de clases.
+   - Métodos y propiedades heredados.
+   - Implementación de interfaces.
+
+2.3 **Encapsulamiento**
+   - Modificadores de acceso (public, private, protected).
+   - Getters y setters.
+
+2.4 **Métodos Estáticos y Variables de Clase**
+   - Uso de métodos y variables que pertenecen a la clase, no a instancias específicas.
+
+### Módulo 3: Programación Avanzada en Dart
+
+3.1 **Mixins**
+   - Composición de clases con mixins.
+
+3.2 **Clases Abstractas**
+   - Declaración y uso de clases abstractas.
+
+3.3 **Manejo de Excepciones**
+   - Bloques try-catch.
+   - Creación de excepciones personalizadas.
+
+3.4 **Programación Genérica**
+   - Uso de genéricos para crear clases y funciones flexibles.
+
+### Módulo 4: Programación Asíncrona y Flutter
+
+4.1 **Programación Asíncrona en Dart**
+   - Futuros y Streams.
+   - Async, Await, y Future API.
+
+4.2 **Introducción a Flutter**
+   - Breve descripción de Flutter como framework para desarrollo de aplicaciones.
+   - Configuración del entorno de desarrollo para Flutter.
+
+4.3 **Widgets y UI en Flutter**
+   - Creación y uso de widgets.
+   - Diseño de la interfaz de usuario con Flutter.
+
+4.4 **Manejo de Eventos y Navegación en Flutter**
+   - Gestión de eventos y navegación entre pantallas.
+
+### Módulo 5: Práctica y Proyectos
+
+5.1 **Desarrollo de Proyectos Prácticos**
+   - Aplicación de los conceptos aprendidos en proyectos reales.
+   - Desarrollo de una aplicación simple utilizando Dart y Flutter.
+
+5.2 **Pruebas Unitarias y Pruebas de Integración**
+   - Introducción a las pruebas unitarias y de integración en Dart.
+
+5.3 **Despliegue de Aplicaciones Flutter**
+   - Opciones de despliegue para aplicaciones Flutter.
+
+5.4 **Recursos de Aprendizaje Adicionales**
+   - Libros, tutoriales en línea y comunidades para aprender más sobre Dart y Flutter.
+
