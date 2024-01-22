@@ -1,0 +1,36 @@
+
+    EXAMEN FINAL DE PROGRMACION ORIENTADA A OBJETOS 
+
+**Preguntas:**
+
+1. ¿Qué es la programación orientada a objetos (POO)?
+   
+2. En Dart, ¿cómo se define una clase?
+
+3. Explica el concepto de herencia en Dart y proporciona un ejemplo.
+
+4. ¿Cuál es el propósito del constructor en una clase Dart?
+
+5. ¿Cómo se crea una instancia (objeto) de una clase en Dart?
+
+6. Describe la diferencia entre un método estático y un método de instancia en Dart.
+
+7. ¿Qué es la encapsulación y por qué es importante en la programación orientada a objetos?
+
+8. En Dart, ¿cómo se implementa la sobrecarga de operadores?
+
+9. Explica el polimorfismo y proporciona un ejemplo en Dart.
+
+10. ¿Qué son las interfaces en Dart y cómo se utilizan?
+
+11. En Dart, ¿cuál es el uso de la palabra clave `super` en una clase?
+
+12. ¿Qué es la abstracción en programación orientada a objetos y cómo se logra en Dart?
+
+13. Diferencia entre una clase abstracta y una interfaz en Dart.
+
+14. ¿Qué es el concepto de composición y cómo se implementa en Dart?
+
+15. Describe brevemente el ciclo de vida de un objeto en Dart.
+
+Recuerda proporcionar tus respuestas y estaré encantado de evaluarlas y discutir contigo sobre la transición a la programación asíncrona en Dart.
