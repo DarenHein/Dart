@@ -1,11 +1,21 @@
 
+// sobrecarda de operador resta 
+
 class Persona{
-  String nombre ; 
   int edad ; 
+  Persona(this.edad); 
 
-  Persona(this.nombre , this.edad ); 
-
-  operator -(Persona nueva_persona){
-   
+  operator -(Persona edad_nueva){
+    return Persona(this.edad - edad_nueva.edad); 
   }
+}
+
+void main(){
+  // hacemos dos intancias de la misma clase 
+  var persona = Persona(12); 
+  var persona2 = Persona(12); 
+
+  var Persona3 = persona - persona2; 
+
+  print(Persona3.edad); 
 }
