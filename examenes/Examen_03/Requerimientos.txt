@@ -1,0 +1,43 @@
+¡Por supuesto! Aquí tienes un examen sobre programación orientada a objetos en Dart. Cada pregunta incluye un ejercicio práctico que aumenta gradualmente en dificultad. Al final del examen, encontrarás las respuestas.
+
+Examen de Programación Orientada a Objetos en Dart
+
+Definición de Clases Básicas:
+
+Define una clase llamada Persona con dos atributos: nombre (cadena de texto) y edad (entero). Crea un constructor que inicialice estos atributos.
+
+Creación de Objetos:
+
+Crea un objeto de la clase Persona llamado persona1 con el nombre "Ana" y la edad 30.
+
+Métodos y Encapsulamiento:
+
+Agrega un método llamado mostrarDetalles a la clase Persona que imprima en la consola el nombre y la edad de la persona.
+
+Herencia:
+
+Define una clase llamada Estudiante que herede de la clase Persona. Añade un nuevo atributo llamado curso y un método que muestre también el curso.
+
+Polimorfismo:
+
+Crea un objeto de la clase Estudiante llamado estudiante1 con el nombre "Carlos", la edad 25 y el curso "Programación". Llama al método mostrarDetalles del objeto estudiante1.
+
+Interfaces:
+
+Define una interfaz llamada Imprimible con un método abstracto imprimirDetalles. Implementa esta interfaz en la clase Persona para imprimir sus detalles.
+
+Clases Abstractas:
+
+Crea una clase abstracta llamada Figura con un método abstracto calcularArea. Implementa esta clase en al menos dos clases concretas, como Circulo y Rectangulo.
+
+Constructores Nombrados:
+
+Agrega un constructor nombrado a la clase Persona que permita crear una persona sin proporcionar la edad. Por defecto, la edad debe ser 0.
+
+Métodos Estáticos:
+
+Agrega un método estático a la clase Persona llamado mayorEdad que tome una edad como parámetro y devuelva true si la edad es mayor o igual a 18, y false en caso contrario.
+
+Mixin:
+
+Crea un mixin llamado Registrable con un método registrar que imprima "Registrando...". Usa este mixin en la clase Persona.

@@ -1,0 +1,33 @@
+¡Entendido! Aquí van algunas preguntas prácticas sobre POO en Dart:
+
+1. **Creación de Clase:**
+   Escribe el código para una clase llamada `Persona` con propiedades como `nombre` y `edad`. Incluye un constructor que inicialice estas propiedades.
+
+2. **Herencia y Métodos:**
+   Crea una clase llamada `Estudiante` que herede de la clase `Persona`. Agrega un método en la clase `Estudiante` que imprima "Estudiando..." y otro método que llame al método de la clase base para imprimir el nombre y la edad del estudiante.
+
+3. **Encapsulación:**
+   Implementa la encapsulación en la clase `Persona` haciendo que la propiedad `edad` sea privada y proporciona métodos de acceso para obtener y establecer la edad.
+
+4. **Polimorfismo:**
+   Define una clase base `Figura` con un método llamado `calcularArea()`. Crea dos clases derivadas: `Circulo` y `Cuadrado`, que implementen el método de manera diferente para calcular el área.
+
+5. **Interfaces:**
+   Crea una interfaz llamada `Imprimible` con un método `imprimir()`. Luego, implementa esta interfaz en la clase `Estudiante` para imprimir "Imprimiendo estudiante..." cuando se llame al método.
+
+6. **Mixins:**
+   Define un mixin llamado `Registrable` con un método `registrar()` que imprima "Registrando...". Úsalo en la clase `Estudiante`.
+
+7. **Sobreescritura de Métodos:**
+   En la clase `Estudiante`, sobrescribe el método `toString()` para devolver una cadena que incluya el nombre, la edad y el estado de estudiante.
+
+8. **Constructores con Nombre:**
+   Agrega un constructor con nombre a la clase `Persona` que permita crear una persona directamente con un nombre, sin necesidad de proporcionar la edad al principio.
+
+9. **Uso de Getters y Setters:**
+   Crea una instancia de la clase `Persona`, establece su edad utilizando el método de establecimiento encapsulado, y luego obtén la edad utilizando el método de obtención.
+
+10. **Uso de Mixins:**
+    Crea una instancia de la clase `Estudiante`, llama al método `registrar()` del mixin `Registrable`, y luego imprime la representación de la instancia utilizando el método `toString()`.
+
+Espero que estas preguntas prácticas te ayuden a consolidar tus conocimientos sobre POO en Dart. ¡Buena suerte!
