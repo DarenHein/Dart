@@ -1,0 +1,101 @@
+
+### Fundamentos de Dart:
+1. **Variables y Tipos de Datos:**
+   - Declaración de variables
+   - Tipos de datos: int, double, String, bool, etc.
+   - Uso de var y final
+
+2. **Estructuras de Control:**
+   - Condiciones: if, else, switch
+   - Bucles: for, while, do-while
+
+3. **Funciones:**
+   - Declaración y llamada de funciones
+   - Parámetros y argumentos
+   - Funciones anónimas (lambda)
+   - Funciones de alto orden
+
+4. **Listas y Colecciones:**
+   - Listas, mapas y conjuntos
+   - Operaciones comunes en colecciones
+
+5. **Clases y Objetos:**
+   - Declaración de clases
+   - Constructores
+   - Métodos y propiedades
+   - Herencia y polimorfismo
+
+6. **Manejo de Excepciones:**
+   - Try, catch, finally
+   - Creación de excepciones personalizadas
+
+### Programación Asíncrona en Dart:
+1. **Futures y Streams:**
+   - Conceptos básicos de Futures
+   - Streams y StreamControllers
+   - Uso de async/await
+
+2. **Manejo de Errores Asíncronos:**
+   - try-catch en código asíncrono
+   - Uso de `Future.error()` y `Completer`
+
+### Programación Funcional en Dart:
+1. **Funciones de Alto Orden:**
+   - Funciones que devuelven funciones
+   - Funciones que toman funciones como parámetros
+
+2. **Programación Funcional en Colecciones:**
+   - `map`, `where`, `reduce`, etc.
+
+### Programación Orientada a Objetos Avanzada:
+1. **Mixins:**
+   - Uso de mixins para compartir código
+
+2. **Extensiones:**
+   - Ampliación de funcionalidad de clases sin herencia
+
+### Testing en Dart:
+1. **Unit Testing:**
+   - Uso de la biblioteca `test`
+
+### Manejo de Paquetes en Dart:
+1. **Pub y Dependencias:**
+   - Uso de Pub para gestionar dependencias
+
+### Programación Concorrente en Dart:
+1. **Isolates:**
+   - Conceptos básicos de los isolates
+
+### Introducción a Flutter:
+1. **Widgets y Estructura de la Interfaz de Usuario:**
+   - Understanding Widgets
+   - Estructura básica de una aplicación Flutter
+
+2. **Navegación:**
+   - Uso de rutas y navegación entre pantallas
+
+3. **Gestión de Estados:**
+   - Manejo de estados locales
+   - Stateful y Stateless Widgets
+
+4. **Temas de Diseño y Estilos:**
+   - Uso de themes y estilos en Flutter
+
+5. **Networking:**
+   - Realización de solicitudes HTTP
+   - Manejo de respuestas y errores
+
+6. **Persistencia de Datos:**
+   - Uso de paquetes para la persistencia de datos
+
+7. **Animaciones:**
+   - Animaciones básicas y avanzadas en Flutter
+
+8. **Pruebas en Flutter:**
+   - Uso del framework de pruebas de Flutter
+
+9. **Despliegue y Publicación:**
+   - Creación de archivos de compilación (APK, IPA)
+   - Despliegue en tiendas de aplicaciones
+
+Este temario te proporcionará una base sólida para trabajar con Flutter. Recuerda que Flutter no solo requiere conocimientos de Dart sino también de conceptos específicos de desarrollo de aplicaciones móviles. Es recomendable consultar la documentación oficial de Dart y Flutter para obtener información detallada sobre estos temas.
